@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=PetLibrary
+comment0.text=\r\n\ Class\:\ Library\r\n\ \r\n\ \ \ \ \ \ \ @author\ Paul\ Mukherjee\r\n\ \ \ \ \ \ \ @version\ 1.0\ \r\n\ \ \ \ \ \ \ ITEC\ 3150\ September\ 26th\ 2021\r\n\ \r\n\ \r\n\ \ \ \ \ \ \ \ \ \ This\ class\ describes\ the\ library\ used\ to\ contain\ the\ Pet\r\n\ \ \ \ \ \ \ \ \ \ library.\ \r\n\ \r\n\ \ \ \ \ \ \ \ \ \ Purpose\:\ Methods\ and\ attributes\ needed\ to\ create\ a\ library\ of\r\n\ \ \ \ \ \ \ \ \ \ Pet\ objects.\ \r\n\r\n
+comment1.params=
+comment1.target=java.util.ArrayList\ getTheList()
+comment2.params=m
+comment2.target=void\ addItem(Pet)
+comment2.text=\r\n\ addItem()\r\n\ \r\n\ This\ method\ adds\ the\ parameter\ m\ to\ the\ libraryItems\ array\ list\r\n\ \r\n\ @param\ m\r\n\ \r\n
+comment3.params=
+comment3.target=void\ printLibraryItems()
+comment3.text=\r\n\ printLibraryItems()\r\n\ \r\n\ This\ method\ prints\ items\ in\ librayItems\ to\ console\r\n
+comment4.params=
+comment4.target=void\ readBinaryFile()
+comment4.text=\r\n\ readBinaryFile()\r\n\ \r\n\ This\ method\ populates\ the\ libraryItems\ array\ list\ from\ a\ binary\ files\r\n
+comment5.params=items
+comment5.target=void\ writeListToFile(javafx.collections.ObservableList)
+comment5.text=\r\n\ writeListToFile()\r\n\ \r\n\ This\ method\ overwites\ the\ original\ binary\ file\ (pets.dat)\ with\ new\ added\ objects\r\n\ \r\n\ @param\ ObservableList<Pet>\r\n
+numComments=6

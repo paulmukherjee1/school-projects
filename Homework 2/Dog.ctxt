@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Dog
+comment0.text=\r\n\ \t\ @author\ Paul\ Mukherjee\r\n\ \ \ \ \ \ \ @version\ 1.0\ \r\n\ \ \ \ \ \ \ ITEC\ 3150\ September\ 26th\ 2021\r\n\t\ Dog\ class\ for\ use\ in\ homework\ 2\r\n\ \r\n\r\n
+comment1.params=name\ yearOfBirth\ isDog\ breed\ weight
+comment1.target=Dog(java.lang.String,\ int,\ boolean,\ java.lang.String,\ double)
+comment1.text=\r\n\ @param\ name\r\n\ @param\ yearOfBirth\r\n\ @param\ isDog\r\n\ @param\ breed\r\n\ @param\ weight\r\n
+comment2.params=
+comment2.target=java.lang.String\ getBreed()
+comment2.text=\r\n\ @return\ the\ breed\r\n
+comment3.params=breed
+comment3.target=void\ setBreed(java.lang.String)
+comment3.text=\r\n\ @param\ breed\ the\ breed\ to\ set\r\n
+comment4.params=
+comment4.target=double\ getWeight()
+comment4.text=\r\n\ @return\ the\ weight\r\n
+comment5.params=weight
+comment5.target=void\ setWeight(double)
+comment5.text=\r\n\ @param\ weight\ the\ weight\ to\ set\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

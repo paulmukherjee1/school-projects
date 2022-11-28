@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=MainGUI
+comment0.text=\r\n\ Class\:\ Library\r\n\ \r\n\ \ \ \ \ \ \ @author\ Paul\ Mukherjee\r\n\ \ \ \ \ \ \ @version\ 1.0\ \r\n\ \ \ \ \ \ \ ITEC\ 3150\ September\ 26th\ 2021\r\n\ \r\n\ \r\n\ \ \ \ \ \ \ \ \ \ This\ class\ is\ used\ to\ create\ a\ GUI\ for\ viewing\ available\ pets,\ adding\ new\ \r\n\ \ \ \ \ \ \ \ \ \ pets\ to\ the\ GUI,\ and\ updating\ the\ GUI\ with\ new\ added\ pets\ once\ closed.\r\n\ \r\n\ \ \ \ \ \ \ \ \ \ Purpose\:\ Methods\ and\ attributes\ needed\ to\ create\ a\ GUI\ for\ Pet\ Objects\r\n\r\n
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment1.text=\r\n\ Method\:start()\r\n\ \r\n\ This\ method\ adds\ the\ parameter\ m\ to\ the\ libraryItems\ array\ list\r\n\ \r\n\ @param\ Stage\ primaryStage\r\n
+comment2.params=observable\ oldValue\ newValue
+comment2.target=void\ changed(javafx.beans.value.ObservableValue,\ Pet,\ Pet)
+comment3.params=m
+comment3.target=javafx.stage.Stage\ createPetStage(Pet)
+comment3.text=\r\n\ Method\ to\ create\ new\ Stage\ for\ details\ about\ a\ Pet\ object\ Called\ by\r\n\ ListView\ selection\ handler\r\n\ \r\n\ @param\ Media\r\n\ \r\n\ @return\ Stage\r\n
+comment4.params=
+comment4.target=void\ getNewDog()
+comment4.text=\r\n\ Method\:\ getNewPet\r\n\ \r\n\ Called\ by\ event\ handler\ for\ new\ button\ Launches\ a\ new\ stage\ to\ enter\ dog\r\n\ info\r\n\ \r\n\r\n
+comment5.params=
+comment5.target=void\ getNewCat()
+comment5.text=\r\n\ Method\:\ getNewPet\r\n\ \r\n\ Called\ by\ event\ handler\ for\ new\ button\ Launches\ a\ new\ stage\ to\ enter\ cat\r\n\ info\r\n\ \r\n\r\n
+comment6.params=
+comment6.target=void\ writeAndClose()
+comment6.text=\r\n\ Called\ by\ event\ handler\ for\ close\ button\r\n\ \r\n\ Writes\ observable\ list\ to\ original\ binary\ file\r\n\ \r\n\r\n
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment7.text=\r\n\ Main\ method\ and\ starting\ point\ of\ the\ program\r\n\ \r\n\ @param\ args\r\n
+numComments=8

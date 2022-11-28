@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pet
+comment0.text=\r\n\ \t\ @author\ Paul\ Mukherjee\r\n\ \ \ \ \ \ \ @version\ 1.0\ \r\n\ \ \ \ \ \ \ ITEC\ 3150\ September\ 26th\ 2021\r\n\t\ Abstract\ parent\ class\ for\ dog\ and\ cat\r\n\ \r\n\ \r\n\r\n
+comment1.params=name\ yearOfBirth\ isDog
+comment1.target=Pet(java.lang.String,\ int,\ boolean)
+comment1.text=\r\n\ Only\ constructor\ must\ include\ all\ arguments\ in\ this\ order\r\n\ \r\n\ @param\ name\r\n\ @param\ yearOfBirth\r\n\ @param\ isDog\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ toString\ for\ Pet\ class\ only\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ @return\ the\ name\r\n
+comment4.params=
+comment4.target=int\ getYearOfBirth()
+comment4.text=\r\n\ @return\ the\ yearOfBirth\r\n
+comment5.params=
+comment5.target=boolean\ isDog()
+comment5.text=\r\n\ @return\ the\ isDog\r\n
+numComments=6

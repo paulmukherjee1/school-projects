@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NewCatStage
+comment0.text=\r\n\ Class\:\ NewCatStage\r\n\ \r\n\ \ \ \ \ \ \ @author\ Paul\ Mukherjee\r\n\ \ \ \ \ \ \ @version\ 1.0\ \r\n\ \ \ \ \ \ \ ITEC\ 3150\ September\ 26th\ 2021\r\n\ \r\n\ \r\n\ \ \ \ \ \ \ \ \ \ This\ class\ is\ used\ to\ enter\ new\ info\ for\ new\ cat\ object\r\n\ \r\n\ \ \ \ \ \ \ \ \ \ Purpose\:\ methods\ and\ attributes\ for\ adding\ new\ cat\ object\r\n\r\n
+comment1.params=list
+comment1.target=NewCatStage(javafx.collections.ObservableList)
+comment1.text=\r\n\ Constructor\ that\ creates\ and\ makes\ Stage\ for\ Pet\ entry\ visible\r\n\ \r\n\ @param\ list\r\n
+comment2.params=
+comment2.target=void\ addCat()
+comment2.text=\r\n\ Method\:addCat()\r\n\ \r\n\ This\ method\ reads\ the\ entries\ made\ by\ user\ in\ textfields\ and\r\n\ converts\ to\ a\ Person\ object.\ \ This\ object\ is\ added\ to\ ObservableList\ \r\n\ in\ attributes.\r\n\ \r\n\ \r\n
+numComments=3
