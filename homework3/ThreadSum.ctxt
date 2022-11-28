@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ThreadSum
+comment0.text=\r\n\ \r\n\ Class\:\ ThreadSum\r\n\ \r\n\ @author\ Paul\ Mukherjee\r\n\ @version\ 1.0\r\n\ ITEC\ 3150\ October\ 15th\ 2021\r\n\ \r\n\ This\ class\ is\ used\ for\ obtaining\ the\ sum\ of\ each\ array\ ran\ by\ each\ thread\r\n\ and\ adding\ it\ to\ the\ total\ shared\ sum.\r\n\ \r\n\ Purpose\:\ methods\ and\ attributes\ needed\ for\ obtaining\ the\ sum\ of\ each\ array.\r\n
+comment1.params=array\ sharedSum\ start\ end
+comment1.target=ThreadSum(InitializedArray,\ SharedSum,\ int,\ int)
+comment1.text=\r\n\ @param\ array\r\n\ @param\ sharedSum\r\n\ @param\ start\r\n\ @param\ end\r\n
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\r\n\ Method\:\ run()\r\n\ \r\n\ This\ method\ is\ used\ for\ obtaining\ the\ sum\ of\ the\ array\ for\ each\r\n\ thread,\ and\ adding\ it\ to\ the\ shared\ sum\r\n
+numComments=3

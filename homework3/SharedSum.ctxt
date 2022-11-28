@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SharedSum
+comment0.text=\r\n\ Class\:\ SharedSum\r\n\ \r\n\ @author\ Paul\ Mukherjee\r\n\ @version\ 1.0\r\n\ ITEC\ 3150\ October\ 15th\ 2021\r\n\ \r\n\ This\ class\ is\ used\ to\ keep\ the\ sums\ shared\ between\ threads\r\n\ and\ eventually\ print\ out\ the\ total\ sum,\ with\ the\ sum\r\n\ being\ protected\ by\ a\ ReentrantLock\ \r\n\ \r\n\ Purpose\:\ Methods\ and\ attributes\ needed\ to\ keep\ a\ running\ total\ of\ the\ sum\r\n
+comment1.params=
+comment1.target=SharedSum()
+comment1.text=\r\n\ Method\:sharedSum()\r\n\ \r\n\ This\ method\ initializes\ the\ sum\ to\ 0\ and\ creates\ a\ ReentrantLock\r\n\ \r\n\ \r\n
+comment2.params=value
+comment2.target=void\ addSum(long)
+comment2.text=\r\n\ Method\:addSum()\r\n\ \r\n\ This\ method\ keeps\ a\ running\ total\ of\ the\ sum\ and\ is\ also\ protected\ by\ a\ ReentrantLock\r\n\ \r\n\ @param\ value\r\n
+comment3.params=
+comment3.target=long\ getSum()
+comment3.text=\r\n\ Method\:getSum()\r\n\ \r\n\ This\ method\ returns\ the\ sum\r\n\r\n
+numComments=4

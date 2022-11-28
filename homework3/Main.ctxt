@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Class\:\ Main\r\n\ @author\ Paul\ Mukherjee\r\n\ @version\ 1.0\r\n\ ITEC\ 3150\ October\ 15th\ 2021\r\n\ \r\n\ This\ class\ is\ used\ for\ starting\ all\ 10\ threads\ and\ displaying\ the\ final\ \r\n\ shared\ sum\ for\ all\ arrays\ ran\ by\ each\ thread.\r\n\ \r\n\ Purpose\:\ Methods\ and\ attributes\ needed\ to\ display\ the\ shared\ sum\ of\ all\ 10\ \r\n\ threads.\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
